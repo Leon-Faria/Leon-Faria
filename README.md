@@ -1,4 +1,4 @@
-👋 Hi, I’m Leon!  
+<h1>👋 Hi, I’m Leon!</h1>  
 
 I'm currently at Uni of Manchester pursuing a BSc in Comp Sci.  
 Reach out to me at leon.faria19@gmail.com :)  
